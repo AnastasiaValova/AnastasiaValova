@@ -9,3 +9,6 @@
   <img src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+| **Проект** | **Задача** | **Инструменты** |
+| -------------------- | :--------------------- |:--------------------- |
